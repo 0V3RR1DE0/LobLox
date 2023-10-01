@@ -39,29 +39,29 @@ You can specify any guidelines, coding conventions, or project-specific rules he
 Here is a list of perferred mods, shaders, recourcepacks to enhance your playing experience.
 
 ### Mods
-- [Iris Shaders](https://modrinth.com/mod/iris){:target="_blank"}
-- [Sodium](https://modrinth.com/mod/sodium){:target="_blank"}
-- [Fabric API](https://modrinth.com/mod/fabric-api){:target="_blank"}
-- [ModMenu](https://modrinth.com/mod/modmenu){:target="_blank"}
-- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights){:target="_blank"}
-- [DashLoader](https://modrinth.com/mod/dashloader){:target="_blank"}
-- [Falling Leaves](https://modrinth.com/mod/fallingleaves){:target="_blank"}
-- [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered){:target="_blank"}
-- [Visuality](https://modrinth.com/mod/visuality){:target="_blank"}
+- [Iris Shaders](https://modrinth.com/mod/iris)<!-- _blank -->
+- [Sodium](https://modrinth.com/mod/sodium)<!-- _blank -->
+- [Fabric API](https://modrinth.com/mod/fabric-api)<!-- _blank -->
+- [ModMenu](https://modrinth.com/mod/modmenu)<!-- _blank -->
+- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)<!-- _blank -->
+- [DashLoader](https://modrinth.com/mod/dashloader)<!-- _blank -->
+- [Falling Leaves](https://modrinth.com/mod/fallingleaves)<!-- _blank -->
+- [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)<!-- _blank -->
+- [Visuality](https://modrinth.com/mod/visuality)<!-- _blank -->
 
 ### Shaders [⚠️Caution Use Only If Your Pc Is Good Enough⚠️]
-- [BSL Shaders](https://modrinth.com/shader/bsl-shaders){:target="_blank"}
-- [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels){:target="_blank"}
-- [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined){:target="_blank"}
-- [Super Duper Vanilla](https://modrinth.com/shader/super-duper-vanilla){:target="_blank"}
+- [BSL Shaders](https://modrinth.com/shader/bsl-shaders)<!-- _blank -->
+- [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels)<!-- _blank -->
+- [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined)<!-- _blank -->
+- [Super Duper Vanilla](https://modrinth.com/shader/super-duper-vanilla)<!-- _blank -->
 
 ### ResourcePacks
-- [Faithful 64x](https://modrinth.com/resourcepack/faithful-64x){:target="_blank"}
-- [Faithful 32x](https://modrinth.com/resourcepack/faithful-32x){:target="_blank"}
-- [BetterVanillaBuilding](https://modrinth.com/resourcepack/bettervanillabuilding){:target="_blank"}
-- [Faithless](https://modrinth.com/resourcepack/faithless){:target="_blank"}
-- [Spectral](https://modrinth.com/resourcepack/spectral){:target="_blank"}
-- [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/){:target="_blank"}
+- [Faithful 64x](https://modrinth.com/resourcepack/faithful-64x)<!-- _blank -->
+- [Faithful 32x](https://modrinth.com/resourcepack/faithful-32x)<!-- _blank -->
+- [BetterVanillaBuilding](https://modrinth.com/resourcepack/bettervanillabuilding)<!-- _blank -->
+- [Faithless](https://modrinth.com/resourcepack/faithless)<!-- _blank -->
+- [Spectral](https://modrinth.com/resourcepack/spectral)<!-- _blank -->
+- [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)<!-- _blank -->
 
 [Back to Top](#table-of-contents)
 
