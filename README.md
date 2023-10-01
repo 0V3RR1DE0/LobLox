@@ -48,20 +48,23 @@ Here is a list of perferred mods, shaders, recourcepacks to enhance your playing
 - [Falling Leaves](https://modrinth.com/mod/fallingleaves){:target="_blank"}
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered){:target="_blank"}
 - [Visuality](https://modrinth.com/mod/visuality){:target="_blank"}
+- [How to Install Mods To Minecraft](https://www.youtube.com/watch?v=RLteMhIob_k){:target="_blank"}
 
 ### Shaders [⚠️Caution Use Only If Your Pc Is Good Enough⚠️]
 - [BSL Shaders](https://modrinth.com/shader/bsl-shaders){:target="_blank"}
 - [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels){:target="_blank"}
 - [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined){:target="_blank"}
 - [Super Duper Vanilla](https://modrinth.com/shader/super-duper-vanilla){:target="_blank"}
+- [How to Install Shaders To Minecraft](https://www.youtube.com/watch?v=Hw9QeeTFkEI){:target="_blank"}
 
-### ResourcePacks
+### Resource Packs
 - [Faithful 64x](https://modrinth.com/resourcepack/faithful-64x){:target="_blank"}
 - [Faithful 32x](https://modrinth.com/resourcepack/faithful-32x){:target="_blank"}
 - [BetterVanillaBuilding](https://modrinth.com/resourcepack/bettervanillabuilding){:target="_blank"}
 - [Faithless](https://modrinth.com/resourcepack/faithless){:target="_blank"}
 - [Spectral](https://modrinth.com/resourcepack/spectral){:target="_blank"}
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/){:target="_blank"}
+- [How to Install Resource Packs To Minecraft](https://www.youtube.com/watch?v=SFnpdRUOtG8){:target="_blank"}
 
 [Back to Top](#table-of-contents)
 
