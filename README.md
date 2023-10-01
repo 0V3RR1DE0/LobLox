@@ -36,7 +36,7 @@ You can specify any guidelines, coding conventions, or project-specific rules he
 <div id="additionals"></div>
 
 ## Additionals
-Here is a list of perferred mods, shaders, recourcepacks to enhance your playing experience.
+Here is a list of perferred mods, shaders, recource packs to enhance your playing experience.
 
 ### Mods
 - [Iris Shaders](https://modrinth.com/mod/iris){:target="_blank"}
