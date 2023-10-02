@@ -64,9 +64,26 @@ If you've received an invitation to join our server, follow the provided instruc
 <div id="rules"></div>
 
 ## Rules
-These are the Rules for my project.
+Before joining our private Minecraft server, please take a moment to familiarize yourself with our rules. These rules are in place to ensure a positive and enjoyable gaming experience for all players.
 
-You can specify any guidelines, coding conventions, or project-specific rules here.
+### 1. Respect
+- Treat fellow players with respect and kindness. Harassment or offensive behavior is not tolerated.
+
+### 2. No Griefing
+- We value creativity and hard work. Destruction of others' creations or property is strictly prohibited.
+
+### 3. Server Security
+- Protect your account and personal information. Do not share your login credentials with others.
+
+### 4. Economy Etiquette
+- In our player-driven economy system, engage in fair and honest trading practices with fellow players.
+
+### 5. Have Fun
+- Most importantly, have fun and enjoy your time on our server!
+
+By joining our server, you agree to abide by these rules. Failure to do so may result in removal from the server. We strive to maintain a friendly and cooperative community, and your cooperation is greatly appreciated.
+
+*Thank you for understanding and respecting our server rules. We look forward to a positive and enjoyable gaming experience together!*
 
 [Back to Top](#table-of-contents)
 
