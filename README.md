@@ -16,17 +16,17 @@
 
 We're excited to introduce you to our private Minecraft server, a special and exclusive place where a small group of dedicated players can enjoy the game in a private setting.
 
-#### About Us
+### About Us
 Our Minecraft server is an intimate experience designed for a select few. We are a small group of friends who share a passion for Minecraft and have created a private space to enjoy the game together.
 
-#### What Makes Us Unique
+### What Makes Us Unique
 - **Exclusive Access:** Our server is invite-only, ensuring a private and secure environment with just a few fellow adventurers.
 
 - **Focused Play:** While our player base is small, it allows for a more intimate and tailored Minecraft experience without the distractions of a larger community.
 
 - **Cooperative Play:** Join our tight-knit group of players to collaborate on projects and embark on adventures in a more personal setting.
 
-#### Getting Started
+### Getting Started
 If you've received an invitation to join our server, follow the provided instructions to connect and start your journey with us. We can't wait to share the Minecraft experience with you.
 
 *Thank you for considering our private Minecraft server. We may be a small group, but we're excited to welcome new members who are passionate about the game. Let's dive into the world of Minecraft together!*
@@ -37,9 +37,23 @@ If you've received an invitation to join our server, follow the provided instruc
 <div id="info"></div>
 
 ## Info
-This is the Info section of the README.
+Welcome to the information page of our private Minecraft server. Here, we provide you with essential details about our server's features and how to join our select group of players.
 
-Here, you can provide information about your project, such as what it does, how to use it, or any other relevant details.
+### Features
+Our private Minecraft server is designed for a small group of dedicated players who enjoy a more intimate gaming experience. Here are some key features:
+
+- **Whitelisting:** We maintain a whitelist to ensure that access is limited to invited players only, creating a secure and private environment.
+
+- **Simplified Gameplay:** Our server offers a largely vanilla Minecraft experience with minimal plugins, allowing you to enjoy the core gameplay.
+
+- **Small and Friendly:** Join our close-knit group of players who share a passion for Minecraft. It's a tight community where everyone knows each other.
+
+- **Collaboration:** Work together with others on exciting projects and adventures within our small, but cooperative, player base.
+
+### Joining Us
+If you've received an invitation to join our server, follow the provided instructions to connect and start your adventure. We're excited to have you as part of our select group of Minecraft enthusiasts.
+
+*Thank you for considering our private Minecraft server. We're not a large community, but we're passionate about the game and look forward to creating memorable experiences together!*
 
 [Back to Top](#table-of-contents)
 
