@@ -50,6 +50,8 @@ Our private Minecraft server is designed for a small group of dedicated players 
 
 - **Small and Friendly:** Join our close-knit group of players who share a passion for Minecraft. It's a tight community where everyone knows each other.
 
+- **Player Economy:** We have a dynamic player-driven economy system, allowing you to trade, buy, and sell resources and items with fellow players.
+
 - **Collaboration:** Work together with others on exciting projects and adventures within our small, but cooperative, player base.
 
 ### Joining Us
