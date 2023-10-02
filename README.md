@@ -46,6 +46,8 @@ Our private Minecraft server is designed for a small group of dedicated players 
 
 - **Simplified Gameplay:** Our server offers a largely vanilla Minecraft experience with minimal plugins, allowing you to enjoy the core gameplay.
 
+- **Vanilla Gameplay:** Our server offers a largely vanilla Minecraft experience with minimal plugins, allowing you to enjoy the core gameplay in its purest form.
+
 - **Small and Friendly:** Join our close-knit group of players who share a passion for Minecraft. It's a tight community where everyone knows each other.
 
 - **Collaboration:** Work together with others on exciting projects and adventures within our small, but cooperative, player base.
